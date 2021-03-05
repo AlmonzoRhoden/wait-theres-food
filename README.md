@@ -36,6 +36,6 @@ If you have any questions please do not hesitate to ask.
 
 <img width="1140" alt="SignIn " src="https://user-images.githubusercontent.com/67694214/110022152-91d09900-7cf9-11eb-99b4-0355902b042c.png">
 
-<img width="1554" alt="Pantry " src="https://user-images.githubusercontent.com/67694214/110022166-9432f300-7cf9-11eb-9243-6ccec973a1a2.png">
+<img width="1554" alt="Pantry " src="https://user-images.githubusercontent.com/61447353/110060542-15a77700-7d34-11eb-9e6b-38742bcbad3a.png">
 
 <img width="1419" alt="Recipes " src="https://user-images.githubusercontent.com/67694214/110022206-a0b74b80-7cf9-11eb-98fa-bf4427ad3e6d.png">
