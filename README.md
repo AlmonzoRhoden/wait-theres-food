@@ -27,7 +27,7 @@ David Johnson, Julie Altman, Richard Quiroz
 https://theres-food-at-home.herokuapp.com/
 
 ## Repo link
-https://github.com/johnsondavid1107/theresFoodAtHome
+https://github.com/AlmonzoRhoden/WaitTheresFood
 
 ## Questions
 If you have any questions please do not hesitate to ask.
