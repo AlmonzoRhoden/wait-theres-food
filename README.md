@@ -23,6 +23,9 @@ Almonzo Rhoden, Julia Horan, Haver Calles
 ## Backend team included
 David Johnson, Julie Altman, Richard Quiroz
 
+## Team Contribution History
+https://github.com/johnsondavid1107/theresFoodAtHome/graphs/contributors
+
 ## Heroku link
 https://theres-food-at-home.herokuapp.com/
 
