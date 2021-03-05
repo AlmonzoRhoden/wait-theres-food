@@ -1,0 +1,23 @@
+/* Stylesheet for Nav - Zo */
+
+/* App Title */
+h2
+{
+    text-align: center;
+    color:white;
+}
+
+/* Color - code given by teammates - Zo*/
+.title
+{
+    color:orange;
+}
+
+/* NavBar akaTabs section - Zo */
+
+.navbar
+{
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: space-evenly;
+}
