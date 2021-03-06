@@ -35,7 +35,7 @@ David Johnson, Julie Altman, Richard Quiroz
 https://github.com/johnsondavid1107/theresFoodAtHome/graphs/contributors
 
 ## Heroku link
-https://dashboard.heroku.com/apps/wait-theres-food
+https://wait-theres-food.herokuapp.com/
 
 ## Repo link
 https://github.com/AlmonzoRhoden/WaitTheresFood
