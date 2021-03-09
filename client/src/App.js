@@ -3,11 +3,11 @@ import UserProvider from "./Providers/UserProvider";
 import Application from "./components/Application/index"
 
 
-function App() {  
+function App() {
 
   return (
     <UserProvider>
-      <Application/>
+      <Application />
     </UserProvider>
   );
 }

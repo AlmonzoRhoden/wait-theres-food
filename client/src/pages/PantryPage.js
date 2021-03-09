@@ -31,6 +31,7 @@ class PantryPage extends Component {
 
     const user = this.context
 
+
     if (user) {
 
       return (<Pantry />)

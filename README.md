@@ -1,12 +1,4 @@
-<h2 align = 'center'> Wait There's Food! </h2>
-
-<img width="1122" alt="SignUp" src="https://user-images.githubusercontent.com/61447353/110061614-ded26080-7d35-11eb-9f78-d5cce6cabb6e.PNG">
-
-<img width="1140" alt="SignIn " src="https://user-images.githubusercontent.com/61447353/110061591-d2e69e80-7d35-11eb-8649-546fad7d31dc.PNG">
-
-<img width="1554" alt="Pantry " src="https://user-images.githubusercontent.com/61447353/110060542-15a77700-7d34-11eb-9e6b-38742bcbad3a.PNG">
-
-<img width="1419" alt="Recipes " src="https://user-images.githubusercontent.com/61447353/110061475-a763b400-7d35-11eb-8ff5-55d0849c9f72.PNG">
+# theresFoodAtHome
 
 ## Description
 An application for users to avoid food waste and encourage them to eat at home. 
@@ -26,19 +18,24 @@ MIT
 This was a group effort. Tasks were specified and broken down between two smaller groups.
 
 ## Frontend team included
-Almonzo Rhoden, Julia Horan, Haver Calles
+Julia Horan, Haver Calles, Almonzo Rhoden
 
 ## Backend team included
 David Johnson, Julie Altman, Richard Quiroz
 
-## Team Contribution History
-https://github.com/johnsondavid1107/theresFoodAtHome/graphs/contributors
-
 ## Heroku link
-https://wait-theres-food.herokuapp.com/
+https://theres-food-at-home.herokuapp.com/
 
 ## Repo link
-https://github.com/AlmonzoRhoden/WaitTheresFood
+https://github.com/johnsondavid1107/theresFoodAtHome
 
 ## Questions
 If you have any questions please do not hesitate to ask.
+
+<img width="1122" alt="SignUp" src="https://user-images.githubusercontent.com/67694214/110022130-8da47b80-7cf9-11eb-9233-49527af97c5b.png">
+
+<img width="1140" alt="SignIn " src="https://user-images.githubusercontent.com/67694214/110022152-91d09900-7cf9-11eb-99b4-0355902b042c.png">
+
+<img width="1554" alt="Pantry " src="https://user-images.githubusercontent.com/67694214/110022166-9432f300-7cf9-11eb-9243-6ccec973a1a2.png">
+
+<img width="1419" alt="Recipes " src="https://user-images.githubusercontent.com/67694214/110022206-a0b74b80-7cf9-11eb-98fa-bf4427ad3e6d.png">

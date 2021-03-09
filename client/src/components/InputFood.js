@@ -33,7 +33,9 @@ function InputFood(props) {
     const [suggestDate, setSuggestDate] = useState()
     const [dateEntered, setDateEntered] = useState("")
 
+
     const user = useContext(UserContext)
+
 
     useEffect(() => {
         console.log(user)
@@ -46,11 +48,15 @@ function InputFood(props) {
         today = mm + '/' + dd + '/' + yyyy;
         setTodayDate(today);
         //bring the entire databse allFOod collection down and set it as state.  Then search that state for event.target.value of user input.  If found render in placeholder.  If no match, take value and send up copy to the all foods database with the shelflife
-        API.getAllFoods().then(function (response) {
-            // console.log(response.data[0].allFoods)
+        API.getFoods(user.uid).then(function (response) {
+            console.log(response.data[0].allFoods)
 
 
-            if (response.data.length === 0) {
+            if (response.data[0].allFoods.length === 0) {
+                let nothing = {
+                    name: "nothing"
+                }
+                setAllFoods(nothing)
                 return
             } else {
                 setAllFoods(response.data[0].allFoods)
@@ -79,18 +85,22 @@ function InputFood(props) {
 
     function handleInputChange(event) {
         const { value } = event.target
-
-
-        // console.log(value)
-        setFood(value.toLowerCase())
-
-
-        setPlaceHolderFood(allFoods.filter(option =>
-            option.name.toLowerCase().includes(value.toLowerCase()))
-        )
         setInputVal(value)
 
 
+        console.log(allFoods)
+        setFood(value.toLowerCase())
+        if (allFoods.length === 1) {
+            return
+        } else {
+
+
+            setPlaceHolderFood(allFoods.filter(option =>
+                option.name.toLowerCase().includes(value.toLowerCase()))
+            )
+
+
+        }
     }
 
     function handleAddFood(event) {
@@ -134,7 +144,8 @@ function InputFood(props) {
 
             let newAllFood = {
                 name: foodChoice,
-                daysFresh: daysFresh
+                daysFresh: daysFresh,
+                user: user.uid
             }
             API.checkAllFoods(newAllFood).then(function (response2) {
                 if (response2 === undefined) {
