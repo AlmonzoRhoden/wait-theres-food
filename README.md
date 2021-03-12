@@ -1,4 +1,4 @@
-# theresFoodAtHome
+WaitTheresFood
 
 ## Description
 An application for users to avoid food waste and encourage them to eat at home. 
@@ -18,7 +18,7 @@ MIT
 This was a group effort. Tasks were specified and broken down between two smaller groups.
 
 ## Frontend team included
-Julia Horan, Haver Calles, Almonzo Rhoden
+Almonzo Rhoden, Haver Calles, Julia Horan,
 
 ## Backend team included
 David Johnson, Julie Altman, Richard Quiroz
