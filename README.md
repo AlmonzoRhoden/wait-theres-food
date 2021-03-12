@@ -1,5 +1,13 @@
 <h2 align = 'center'> Wait There's Food!<h2>
 
+<img width="1122" alt="SignUp" src="https://user-images.githubusercontent.com/67694214/110022130-8da47b80-7cf9-11eb-9233-49527af97c5b.png">
+
+<img width="1140" alt="SignIn " src="https://user-images.githubusercontent.com/67694214/110022152-91d09900-7cf9-11eb-99b4-0355902b042c.png">
+
+<img width="1554" alt="Pantry " src="https://user-images.githubusercontent.com/67694214/110022166-9432f300-7cf9-11eb-9243-6ccec973a1a2.png">
+
+<img width="1419" alt="Recipes " src="https://user-images.githubusercontent.com/67694214/110022206-a0b74b80-7cf9-11eb-98fa-bf4427ad3e6d.png">
+
 ## Description
 An application for users to avoid food waste and encourage them to eat at home. 
 Usage Working toward eliminating food waste. Therefoodathome helps users keep track of the expiration date on food they have purchased. It also offer them suggested recipes to use up foods that will expire soon. 
@@ -34,11 +42,3 @@ https://github.com/AlmonzoRhoden/WaitTheresFood/
 
 ## Questions
 If you have any questions please do not hesitate to ask.
-
-<img width="1122" alt="SignUp" src="https://user-images.githubusercontent.com/67694214/110022130-8da47b80-7cf9-11eb-9233-49527af97c5b.png">
-
-<img width="1140" alt="SignIn " src="https://user-images.githubusercontent.com/67694214/110022152-91d09900-7cf9-11eb-99b4-0355902b042c.png">
-
-<img width="1554" alt="Pantry " src="https://user-images.githubusercontent.com/67694214/110022166-9432f300-7cf9-11eb-9243-6ccec973a1a2.png">
-
-<img width="1419" alt="Recipes " src="https://user-images.githubusercontent.com/67694214/110022206-a0b74b80-7cf9-11eb-98fa-bf4427ad3e6d.png">
