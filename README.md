@@ -1,4 +1,4 @@
-WaitTheresFood
+<h2 align = 'center'> Wait There's Food!<h2>
 
 ## Description
 An application for users to avoid food waste and encourage them to eat at home. 
