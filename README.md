@@ -5,7 +5,7 @@ An application for users to avoid food waste and encourage them to eat at home.
 Usage Working toward eliminating food waste. Therefoodathome helps users keep track of the expiration date on food they have purchased. It also offer them suggested recipes to use up foods that will expire soon. 
 
 ## Installation
-Initially as a group we ran the correct installs for NPM, Express, Axios and Bootstrap. 
+Initially as a group we ran the correct installs for NPM, Express, Axios, and Bootstrap. 
 
 The front-end team worked on the design of the various pages and components. We used HTML, CSS, Bootstrap, React.js and utilizing routes while importing and exporting components. This included the styling for the Pantry Page, Recipe Page and Password Reset. The team also handled the styling both the signIn and signUp components. The team worked on the accordion component to create the drop downs and Form Control for the check boxes.  Additionally, CSS was applied to the Accordion component to help indicate how fresh a particular food currently is. 
 
